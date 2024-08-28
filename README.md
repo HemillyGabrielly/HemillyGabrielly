@@ -1,9 +1,11 @@
-👑 oiii, tudo bem??, Bem vindo ao meu perfil♡
+👑 Oiii, tudo bem??, Bem vindo ao meu perfil♡
 
-👑 meu nome é Hemilly Gabrielly
+👑 Meu nome é Hemilly Gabrielly
 
-👑 estou estudando no Alura
+👑 Estou estudando no Alura
 
-👑 estou me desenvolvendo na linguagem Java script
+👑 Estou me desenvolvendo na linguagem Java script
 
-👑 utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+👑 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+
+................👑👑👑...............
